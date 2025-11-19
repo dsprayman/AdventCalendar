@@ -1,0 +1,123 @@
+{
+  "1": {
+    "title": "Erster Advents-Montag",
+    "legend": "Ein Licht geht an",
+    "text": "Wie beim Adventskranz: Wir starten langsam. Heute nur eine Aufgabe: einem Kollegen unerwartet etwas Nettes sagen – ganz ohne Jira-Ticket."
+  },
+  "2": {
+    "title": "Plätzchen-Patchday",
+    "legend": "Version 2.0 mit Zucker",
+    "text": "Bugfix des Tages: Kekse statt Konferenzkekse. Wer heute Süßes mitbringt, erhöht automatisch die Team-Moral-CPU um 200 %."
+  },
+  "3": {
+    "title": "Kaffee & Kerzenschein",
+    "legend": "Daily Stand-up, aber gemütlich",
+    "text": "Tipp: Den ersten Kaffee des Tages bewusst genießen – nicht nur tanken. Wer mag, nimmt sich 2 Minuten und schaut einfach nur aus dem Fenster. (Ja, ohne Teams-Status zu ändern.)"
+  },
+  "4": {
+    "title": "Wunschlisten-Mittwoch",
+    "legend": "Ticket-Titel: ‚Nice to have‘",
+    "text": "Schreib heute einen kleinen Wunsch auf – beruflich oder privat. Kein Muss, nur ein Reminder: Auch Erwachsene dürfen Wunschlisten haben."
+  },
+  "5": {
+    "title": "Glitzer im Alltag",
+    "legend": "Dezente Deko erlaubt",
+    "text": "Kleiner Hack: Eine Sache auf dem Schreibtisch oder Desktop weihnachtlich gestalten. Emoji im Status zählt auch: 🎄✨"
+  },
+  "6": {
+    "title": "Nikolaus im Büro",
+    "legend": "Check der Stiefel-Logs",
+    "text": "Heute ist ideal, jemandem anonym etwas Gutes zu tun: eine Schokolade hinlegen, ein Lob im Chat, ein Danke für etwas, das sonst untergeht."
+  },
+  "7": {
+    "title": "Freitag mit Zimtduft",
+    "legend": "Fast-Wochenende-Modus",
+    "text": "Wer heute eine E-Mail mit weniger als drei Sätzen schreibt, darf sich offiziell ‚Effizienz-Elf‘ nennen. Bonuspunkte, wenn kein ‚wie besprochen‘ drin vorkommt."
+  },
+  "8": {
+    "title": "Zweiter Advents-Hack",
+    "legend": "Stresslevel drosseln",
+    "text": "Mini-Challenge: Eine Sache von deiner To-do-Liste streichen, die niemand wirklich vermissen wird. Weihnachtswunder durch Priorisierung."
+  },
+  "9": {
+    "title": "Montag, aber mit Lebkuchen",
+    "legend": "Softstart in die Woche",
+    "text": "Heute nur ein Vorsatz: Keinen Perfektionismus bei Dingen, die kaum jemand sieht. ‚Good enough‘ ist zur Weihnachtszeit völlig okay."
+  },
+  "10": {
+    "title": "Lach-Mittagspause",
+    "legend": "Kollegen-Comedy-Special",
+    "text": "Such dir heute einen Weihnachtswitz und teile ihn im Teamchat. Beispiel: ‚Was ist ein Schneemann im Büro? – Ein Mitarbeiter im Kältemittel-Upgrade.‘"
+  },
+  "11": {
+    "title": "Stille Minute Mittwoch",
+    "legend": "Atem statt Alarm",
+    "text": "Zwischendurch 60 Sekunden Augen zu, durchatmen, nichts tun. Keine App, kein Timer – einfach kurz an gar nichts denken. (Ja, auch nicht an Tickets.)"
+  },
+  "12": {
+    "title": "Halbzeit im Advent",
+    "legend": "12 von 24 – läuft!",
+    "text": "Du hast offiziell die Adventshalbzeit erreicht. Kleiner Reminder: Du machst das alles ganz schön gut – auch wenn es sich nicht immer so anfühlt."
+  },
+  "13": {
+    "title": "Weihnachts-Refactoring",
+    "legend": "Aufräumen light",
+    "text": "Heute eine Sache aufräumen: Mail-Postfach, Download-Ordner oder Schreibtisch. Weniger Chaos außen bedeutet oft mehr Ruhe innen."
+  },
+  "14": {
+    "title": "Dankbarkeits-Donnerstag",
+    "legend": "Positives Logging",
+    "text": "Schreib dir drei Dinge auf, für die du dieses Jahr dankbar bist – gerne auch kleine: der gute Kaffee, das Team, das WLAN, das meistens einfach läuft."
+  },
+  "15": {
+    "title": "Ugly-Christmas-Sweater-Tag",
+    "legend": "Virtuell oder in echt",
+    "text": "Heute ist der perfekte Tag für den peinlichsten Pulli, den du hast. Alternativ: Profilbild kurzzeitig durch ein maximal kitschiges Weihnachtsbild ersetzen."
+  },
+  "16": {
+    "title": "Dritter Advents-Boost",
+    "legend": "Motivation mit Marzipan",
+    "text": "Such dir heute eine Aufgabe, die dir wirklich Spaß macht, und stell sie bewusst nach vorne. Ein bisschen Advent ist, wenn man Reihenfolgen ändern darf."
+  },
+  "17": {
+    "title": "Montag mit Weihnachts-Playlist",
+    "legend": "Soundtrack zum Arbeiten",
+    "text": "Empfehlung: Eine Weihnachts-Playlist einschalten – oder erstellen. Regel: Pro ‚Last Christmas‘ muss mindestens ein neues Lied entdeckt werden."
+  },
+  "18": {
+    "title": "Kollegen-Engel-Tag",
+    "legend": "Unsichtbare Helfer",
+    "text": "Heute einmal bewusst jemandem helfen, ohne dass du gefragt wirst: eine Info teilen, bei einem Problem kurz unterstützen, Dokumentation ergänzen. Karma-Punkte inklusive."
+  },
+  "19": {
+    "title": "Weihnachts-Fehlerkultur",
+    "legend": "‚Oops‘ mit Zimtstern",
+    "text": "Erlaubnis des Tages: Einen kleinen Fehler zu machen, daraus zu lernen und sich nicht fertig zu machen. Selbst Software bekommt regelmäßig Updates."
+  },
+  "20": {
+    "title": "To-do auf Pause",
+    "legend": "Jahresend-Modus",
+    "text": "Frage dich bei jeder Aufgabe: Muss das wirklich noch dieses Jahr sein? Wenn nicht, bekommt es feierlich das Label ‚2026-klingt-auch-gut‘."
+  },
+  "21": {
+    "title": "Wintersonnenwende",
+    "legend": "Ab heute wird’s heller",
+    "text": "Ab jetzt werden die Tage wieder länger. Guter Moment, um auch im Kopf das Licht anzuschalten: Was möchtest du im neuen Jahr mehr haben – Zeit, Ruhe, Spaß, Fokus?"
+  },
+  "22": {
+    "title": "Fast-Ferien-Freitag",
+    "legend": "Letzte Meter",
+    "text": "Heute ist der ideale Tag für kleine Abschlüsse: offene Tabs schließen, lose Enden knoten, kurze ‚Melden mich im Januar‘-Mails verschicken."
+  },
+  "23": {
+    "title": "Vorfreude-Samstag",
+    "legend": "Fast geschafft",
+    "text": "Vielleicht noch schnell ein bisschen digitales Aufräumen: Desktop entmüllen, ein altes Passwort ändern, ein Backup anstoßen. Zukunfts-Ich sagt Danke."
+  },
+  "24": {
+    "title": "Heiligabend-Grüße",
+    "legend": "Frohe Weihnachten!",
+    "text": "Zeit runterzufahren: Laptop zu, Benachrichtigungen aus, Herz an. Danke, dass du dieses Jahr Teil des Teams warst. Frohe Weihnachten – und gönn dir jetzt echte Offline-Zeit."
+  }
+}
+

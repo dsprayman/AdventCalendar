@@ -1,8 +1,8 @@
-settings.json
-private/*.jpg
-private/*.jpeg
-private/*.png
-private/*.gif
-private/*.mp4
-private/calendar.json
+#settings.json
+#private/*.jpg
+#private/*.jpeg
+#private/*.png
+#private/*.gif
+#private/*.mp4
+#private/calendar.json
 private/rss_cache.xml
