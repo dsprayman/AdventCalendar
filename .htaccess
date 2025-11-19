@@ -1,7 +1,7 @@
 Options -Indexes
 
 # Uncomment to support URL rewriting for no query string URL and replace /advent/ with your own RewriteBase
-#RewriteEngine On
-#RewriteBase /advent/
-#RewriteRule ^(day|jour|tag|dag)(\/([0-9]*))?$ index.php?day=$3 [L]
-#RewriteRule ^([a-z]+)(\/([0-9]*))?$ index.php?$1=$3
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(day|jour|tag|dag)(\/([0-9]*))?$ index.php?day=$3 [L]
+RewriteRule ^([a-z]+)(\/([0-9]*))?$ index.php?$1=$3

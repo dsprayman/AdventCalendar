@@ -13,7 +13,7 @@ body, .tooltip {
 	margin: 0;
 	padding: 20px 0;
 	overflow: hidden;
-	background: url(../img/tree_bark.png) left top repeat fixed;
+	background: url(../img/sva-winter.png) left top repeat fixed;
 }
 .alternate-background { background: url(../img/wave_grid.png) left top repeat fixed; }
 hr, .page-header { border-color: #cdcdcd; }
@@ -61,10 +61,10 @@ a.day-row:hover { -ms-transform:scale(1.1); -webkit-transform:scale(1.1); -o-tra
 	letter-spacing: -4px;
 	color: #fff;
 }
-.day-row.active.day-color-1 { background: #49C7FF; }
-.day-row.active.day-color-2 { background: #5FC462; }
-.day-row.active.day-color-3 { background: #EDD360; }
-.day-row.active.day-color-4 { background: #C48CE8; }
+.day-row.active.day-color-1 { background: #0081c6; }
+.day-row.active.day-color-2 { background: #f29100; }
+.day-row.active.day-color-3 { background: #b9053c; }
+.day-row.active.day-color-4 { background: #454290; }
 
 .day h1 {
 	margin: 0 auto 6px;
@@ -77,11 +77,11 @@ a.day-row:hover { -ms-transform:scale(1.1); -webkit-transform:scale(1.1); -o-tra
 @media (min-width:768px) and (max-width: 992px) { .day h1 { max-width: 600px !important; } }
 @media (min-width:1200px) { .day h1 { max-width: 1020px !important; } }
 @media (max-width: 767px) { .day h1 { max-width: 100% !important; } }
-.day h1 span { display: inline-block; line-height: 55px; }
+.day h1 span { display: inline-block; line-height: 55px; color: #fff; }
 .day h1 i { font-size: 50px; }
 .day .day-row  { float: left; margin-bottom: 20px; }
 .day img { margin: 15px auto 5px; font-size: 20px; line-height: 40px; }
-.day p.legend { font-size: 25px; }
+.day p.legend { font-size: 25px; color: #fff; }
 .day .text { margin: 30px auto 50px; }
 .day .pager { font-weight: normal; margin-top: 40px; }
 

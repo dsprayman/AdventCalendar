@@ -605,8 +605,9 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="shortcut icon" type="image/x-icon" href="<?= Routes::route() ?>assets/favicon.ico" />
-		<link rel="icon" type="image/png" href="<?= Routes::route() ?>assets/favicon.png" />
-
+		<!-- <link rel="icon" type="image/png" href="<?= Routes::route() ?>assets/favicon.png" /> -->
+		<!-- Emoji-Weihnachtsbaum als Favicon -->
+		<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext x='0.5em' y='0.9em' font-size='90'%3E🎄%3C/text%3E%3C/svg%3E">
 		<link href="<?= Routes::route() ?>assets/css/bootstrap.min.css" rel="stylesheet">
 		<link href="<?= Routes::route() ?>assets/css/adventcalendar.css" rel="stylesheet">
 
@@ -620,12 +621,12 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">
 		<div class="container">
 		<div class="navbar-header">
-		<a class="navbar-brand tip" href="<?= Routes::route() ?>" title="home" data-placement="right"><i class="glyphicon glyphicon-home"></i> <?php echo TITLE; ?></a>
+		<a class="navbar-brand tip" href="<?= Routes::route() ?>" title="home" data-placement="right"><i class="glyphicon glyphicon-tree-conifer"></i> <?php echo TITLE; ?></a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="<?= Routes::route(URL_ABOUT) ?>" class="tip" data-placement="left" title="<?php echo I18n::translation('about'); ?>"><i class="glyphicon glyphicon-tree-conifer"></i> <?php echo ADVENT_CALENDAR; ?></a></li>
+			<!-- <li><a href="<?= Routes::route(URL_ABOUT) ?>" class="tip" data-placement="left" title="<?php echo I18n::translation('about'); ?>"><i class="glyphicon glyphicon-tree-conifer"></i> <?php echo ADVENT_CALENDAR; ?></a></li> -->
 			<?php
 			// logout
 			if ($authentificated) { echo '<li><a href="'. Routes::route(URL_LOGOUT) .'" title="'. I18n::translation('logout') .'" class="tip" data-placement="bottom"><i class="glyphicon glyphicon-user"></i></a></li>'; }
@@ -650,7 +651,7 @@ $authentificated = defined('PASSKEY') && isset($_SESSION['welcome']);
 		<div class="container">
 			<p class="pull-right"><a href="#" id="goHomeYouAreDrunk" class="tip" data-placement="left" title="<?php echo I18n::translation('upstairs'); ?>"><i class="glyphicon glyphicon-menu-up"></i></a></p>
 			<div class="notice">
-				<a href="https://github.com/Devenet/AdventCalendar" class="tip" title="Advent Calendar is a light web application to show a picture per day before an event." rel="external" ?><?php echo ADVENT_CALENDAR; ?></a> <?php echo I18n::translation('developed-by', '<a href="https://nicolas.devenet.info" rel="external">Nicolas Devenet</a>'); ?>
+				<a href="https://github.com/Devenet/AdventCalendar" class="tip" title="Advent Calendar is a light web application to show a picture per day before an event." rel="external" ?><?php echo ADVENT_CALENDAR; ?></a>
 			</div>
 		</div>
 		</footer>
